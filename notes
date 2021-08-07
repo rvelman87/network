@@ -1,0 +1,22 @@
+
+PHY:
+
+What is retimer, pcs, redriver
+https://www.edn.com/why-is-a-retimer-required-for-high-speed-data-channels/
+
+
+
+TCAM
+https://etherealmind.com/tcam-detail-review/
+
+
+Packet Walkthrough:
+https://www.arista.com/assets/data/pdf/Whitepapers/7280R3-Platform-Architecture-WP.pdf
+
+
+Vlan Header definition
+https://stackoverflow.com/questions/13166094/build-vlan-header-in-c
+
+
+Endianess
+http://bruceblinn.com/linuxinfo/ByteOrder.html --superb program to identify
