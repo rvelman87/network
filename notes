@@ -3,7 +3,12 @@ PHY:
 
 What is retimer, pcs, redriver
 https://www.edn.com/why-is-a-retimer-required-for-high-speed-data-channels/
-
+Gearbox, retimer
+https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/retimers-and-gearboxes
+Broadcom 81724 PHY
+https://docs.broadcom.com/doc/81724-PB100
+Intel notes on PAM4 and NRZ
+https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/an/an835.pdf
 
 
 TCAM
@@ -12,7 +17,10 @@ https://etherealmind.com/tcam-detail-review/
 
 Packet Walkthrough:
 https://www.arista.com/assets/data/pdf/Whitepapers/7280R3-Platform-Architecture-WP.pdf
-
+Oracle document packet processing
+https://docs.oracle.com/cd/E19547-01/820-3362-10/chap8_classifier.html
+Packet processing , Q in Q as an example
+https://www.techdesignforums.com/practice/technique/efficient-packet-header-parsing-using-an-embedded-configurable-packet-engine/
 
 Vlan Header definition
 https://stackoverflow.com/questions/13166094/build-vlan-header-in-c
@@ -20,3 +28,9 @@ https://stackoverflow.com/questions/13166094/build-vlan-header-in-c
 
 Endianess
 http://bruceblinn.com/linuxinfo/ByteOrder.html --superb program to identify
+
+Packet processing
+https://www.techdesignforums.com/practice/technique/efficient-packet-header-parsing-using-an-embedded-configurable-packet-engine/
+Packet parser examples
+http://yuba.stanford.edu/~nickm/papers/ancs48-gibb.pdf
+
