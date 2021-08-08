@@ -17,6 +17,7 @@ https://etherealmind.com/tcam-detail-review/
 
 Packet Walkthrough:
 https://www.arista.com/assets/data/pdf/Whitepapers/7280R3-Platform-Architecture-WP.pdf
+http://itways.pl/files/uploads/Arista-7500E_Switch_Architecture.pdf
 Oracle document packet processing
 https://docs.oracle.com/cd/E19547-01/820-3362-10/chap8_classifier.html
 Packet processing , Q in Q as an example
@@ -33,4 +34,22 @@ Packet processing
 https://www.techdesignforums.com/practice/technique/efficient-packet-header-parsing-using-an-embedded-configurable-packet-engine/
 Packet parser examples
 http://yuba.stanford.edu/~nickm/papers/ancs48-gibb.pdf
+https://www.techdesignforums.com/practice/technique/efficient-packet-header-parsing-using-an-embedded-configurable-packet-engine/
+
+Failover scenarios
+https://www.cisco.com/c/en/us/td/docs/routers/ncs4000/software/configure/guide/configurationguide/configurationguide_chapter_0100101.html
+Failover ospf
+https://www.cisco.com/c/en/us/support/docs/security/asa-5500-x-series-next-generation-firewalls/117816-qa-asa-00.html
+https://patentimages.storage.googleapis.com/fa/07/db/bed33466215141/US7590760.pdf
+
+congestion avoidandce:
+https://www.cisco.com/c/en/us/td/docs/ios/qos/configuration/guide/12_2sr/qos_12_2sr_book/congestion_avoidance.html
+https://www.cse.wustl.edu/~jain/papers/ftp/ecnfront/index.html
+
+Traffic policing and shaping
+https://support.huawei.com/enterprise/en/doc/EDOC1100096323/d7505117/understanding-traffic-policing-and-traffic-shaping
+
+
+Pause frames
+https://hasanmansur.com/2012/12/15/flow-control-pause-frames-2/
 
